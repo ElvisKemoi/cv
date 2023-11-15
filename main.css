@@ -1,0 +1,23 @@
+h3{
+    text-align: center;
+    color: brown;
+    text-decoration: underline;
+}
+
+
+h1{
+    color:brown;
+    text-decoration: underline;
+    text-align:center;
+}
+
+h2{
+    text-decoration: underline;
+    text-align: center;
+    color:brown;
+}
+img{
+    
+    padding: 20px;
+    width: 600px;
+}

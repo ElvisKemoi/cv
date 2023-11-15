@@ -1,0 +1,32 @@
+The Internet
+
+How does the internet work.
+Internet Service provider (isp)
+Domain Name System
+
+Every computer in the internet has an ip address
+NsLookup.com allows you to lookup the ip addresses of the different website servers.
+
+How does the website work.
+
+The dns server gives the html, css and js files as a response when you request for a particular website.
+
+Javascript gives the website functionality.
+
+Browser is specialized in dealing with the html, css and the javascript files from the dns server for the desired website.
+
+#Google 1998.
+#Chrome developer tools.
+
+How to get most out of the course.
+
+Introduction to html
+
+HTML- Hypertext Markup Language
+
+Html elements 
+<h1>This is a level 1 heading created using the h1 tag</h>
+<br>
+
+
+
